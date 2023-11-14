@@ -1,33 +1,76 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Senior Full Stack Developer",
+            "subtitle": "Emonics",
+            "workType": "Contract",
+            "workDescription": [
+                "Developed and maintained a delivery web application that increased revenue by 15% and user engagement by 20% within the first two months.",
+                "Collaborated with designers and product owners to build security platforms that are safe from potential threats and vulnerabilities.",
+                "Mentored and coached junior developers, improving team satisfaction score by 10% and increasing overall productivity."
+            ],
+            "dateText": "08/2021 – 07/2023"
+        },
+        {
+            "title": "Full Stack Engineer",
+            "subtitle": "Merge",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Built Apollo Server with Express to handle GraphQL requests and increased performance by 20% in overall speed.",
+                "Led development resulting in optimizing the frontend codebase and database schema and developing responsive web based application."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "04/2019 – 07/2021"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Database Developer",
+            "subtitle": "S&P Global",
+            "workType": "Contract",
             "workDescription": [
-                "Worked on abc."
+                "Designed optimized database schema and RESTful APIs that improved data retrieval speed by 20%.",
+                "Developed high-performance backend system resulting in a 15% increase conversion rate and website traffic.",
+                "Collaborated with the DevOps team to make CI/CD practices, resulting in a 30% decrease in software release times."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "09/2018 – 04/2019"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Frontend Developer",
+            "subtitle": "Chewy",
+            "workType": "Full-time",
+            "workDescription": [
+                "Wrote unit tests and automated tests platform, reducing the bugs by a 15% and increasing overall project quality.",
+                "Collaborated with the UI/UX team to define and implement the user experience, resulting in a 20% increase in customer signups."
+            ],
+            "dateText": "12/2016 – 08/2018"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "Anduril",
+            "workType": "Contract",
+            "workDescription": [
+                "Developed and deployed an e-commerce web application using MERN Stack, resulting in a 20% increase in sales within the first two months of launch.",
+                "Optimized applications, reducing page loading time by 30% and improving system performance by 25% by utilizing modern web technologies such as React.js, Node.js and MongoDB."
+            ],
+            "dateText": "04/2015 – 11/2016"
+        },
+        {
+            "title": "Web Developer",
+            "subtitle": "Workwell",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed and deployed various e-commerce websites and booking web applications resulting in a 20% increase in revenue.",
+                "Collaborated with front-end developers to create a user-friendly and high performance applications."
+            ],
+            "dateText": "01/2013 – 03/2015"
+        },
+        {
+            "title": "Freelance Developer",
+            "subtitle": "oDesk",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Developed various web-based applications using HTML, JavaScript, and CSS resulting in improved user experience and usability.",
+                "Worked closely with design teams to build user-friendly UIs, resulting in 4 successful projects update release cycles."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "08/2012 – 04/2013"
         }
     ]
 }
